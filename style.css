@@ -81,7 +81,7 @@ header nav .right-nav i:hover{
     margin-bottom: 0;
     width: 100%;
     height: calc(100vh - 100px);
-    background: url(bg-home.jpg);
+    background: url("bg-home.jpg");
     background-size: cover;
     background-position: right;
 }
